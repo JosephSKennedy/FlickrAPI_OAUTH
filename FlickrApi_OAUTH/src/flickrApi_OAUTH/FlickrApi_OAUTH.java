@@ -35,7 +35,7 @@ import java.util.Date;
 
 public class FlickrApi_OAUTH {
 	
-	private static final String CONSUMER_KEY = "6c941c062d06341aa7b8c14abd609d55";
+	
 
 	private static String requestTokenStr;
 	private static String oauth_verifier;
